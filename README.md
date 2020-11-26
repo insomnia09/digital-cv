@@ -40,4 +40,5 @@ Agile ∙ Scrum ∙ Kanban ∙ SDLC ∙ Project Managment ∙ Team Managment ∙
 СибАГС, Финансы и Кредит
 
 ## ИНОСТРАННЫЕ ЯЗЫКИ  
-Английский - advanced level
+English: written - advanced level, spoken - middle level.  
+Принимал участие в локализации на русский язык веб-приложения brewfather.app и документации к нему.
