@@ -1,5 +1,5 @@
 <p align="right">  
-  <b><a href="url">расширенная версия CV</a></b> 
+  <b><a href="https://github.com/insomnia09/digital-cv/blob/gh-pages/digital-cv-wide.md"> расширенная версия CV</a></b> 
 </p>
 
 
