@@ -14,10 +14,10 @@ _Руководитель IT-проекта/Project Manager, Москва_
 
 ---  
 
-### ОБЛАСТЬ ПОИСКА  
+## ОБЛАСТЬ ПОИСКА  
 Руководитель проекта(ов) в продуктовой IT-компании в сфере fintech / e-commerce или создания, накопления и дистрибуции знаний и новых технологий (edutech / legaltech / healthtech / IoT / blockchain).      
 
-### ЭКСПЕРТИЗА  
+## ЭКСПЕРТИЗА  
 | Управление IT-проектами | Операционный менеджмент | Бизнес-анализ |
 |:-----------------------:|:-----------------------:|:-------------:|
 | :green_circle::green_circle::green_circle::green_circle::green_circle::white_circle: | :green_circle::green_circle::green_circle::green_circle::green_circle::white_circle: | :green_circle::green_circle::green_circle::green_circle::green_circle::white_circle: |  
@@ -26,14 +26,14 @@ _Руководитель IT-проекта/Project Manager, Москва_
 |:-----------------------:|:-----------------------:|:-------------:|
 | :green_circle::green_circle::green_circle::green_circle::green_circle::green_circle: | :green_circle::green_circle::green_circle::green_circle::green_circle::white_circle: | :green_circle::green_circle::green_circle::white_circle::white_circle::white_circle: |
 
-### ОПЫТ РАБОТЫ  
+## ОПЫТ РАБОТЫ  
 **3 года** >> управление IT-проектами в fintech (продуктовая разработка)    
 **4 года** >> операционный директор в fintech-компаниях  
 **1 год** >> блокчейн-стартап и криптовалютный фонд  
 **2 года** >> собственный бизнес  
 **9 лет** >> коммерческий банк (Казначейство)  
 
-### НАВЫКИ  
+## НАВЫКИ  
 Agile ∙ Scrum ∙ Kanban ∙ SDLC ∙ Project Managment ∙ Team Managment ∙  Risk Managment ∙ BPMN ∙ Jira (в т.ч. `администрирование`)∙ Confluence  
 
 ## ОБРАЗОВАНИЕ
