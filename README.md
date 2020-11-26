@@ -1,5 +1,5 @@
 <p align="right">  
-  <a href="url">:arrow_right: расширенная версия CV</a>  
+  <b><a href="url">расширенная версия CV</a></b> 
 </p>
 
 
@@ -10,7 +10,7 @@ _Руководитель IT-проекта/Project Manager, Москва_
 
 
 
-**[Telegram](https://www.t.me/karellinbeard)** | **[E-mail](mailto:ilya.krestovskiy@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/krestovskiy/)**  
+**[Telegram](https://www.t.me/karellinbeard)** / **[E-mail](mailto:ilya.krestovskiy@gmail.com)** / **[LinkedIn](https://www.linkedin.com/in/krestovskiy/)**    
 
 ---  
 
