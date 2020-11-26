@@ -37,8 +37,8 @@ _Руководитель IT-проекта/Project Manager, Москва_
 Agile ∙ Scrum ∙ Kanban ∙ SDLC ∙ Project Managment ∙ Team Managment ∙  Risk Managment ∙ BPMN ∙ Jira (в т.ч. `администрирование`)∙ Confluence  
 
 ## ОБРАЗОВАНИЕ
-СибАГС, Финансы и Кредит
+[СибАГС](https://www.ranepa.ru/), кафедра "Финансы и Кредит", специальность "Банковское дело".
 
 ## ИНОСТРАННЫЕ ЯЗЫКИ  
-English: written - advanced level, spoken - middle level.  
-Принимал участие в локализации на русский язык веб-приложения brewfather.app и документации к нему.
+**English**: written - advanced level, spoken - middle level.  
+Локализовал на русский язык веб-приложение [Brewfather](brewfather.app) и документацию к нему.
