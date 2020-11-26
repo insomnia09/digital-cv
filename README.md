@@ -18,13 +18,7 @@ _Руководитель IT-проекта/Project Manager, Москва_
 Руководитель проекта(ов) в продуктовой IT-компании в сфере fintech / e-commerce или создания, накопления и дистрибуции знаний и новых технологий (edutech / legaltech / healthtech / IoT / blockchain).      
 
 ## ЭКСПЕРТИЗА  
-| Управление IT-проектами | Операционный менеджмент | Бизнес-анализ |
-|:-----------------------:|:-----------------------:|:-------------:|
-| :green_circle::green_circle::green_circle::green_circle::green_circle::white_circle: | :green_circle::green_circle::green_circle::green_circle::green_circle::white_circle: | :green_circle::green_circle::green_circle::green_circle::green_circle::white_circle: |  
-
-| POS-кредитование | P2P/PDL-займы | Blockchain |
-|:-----------------------:|:-----------------------:|:-------------:|
-| :green_circle::green_circle::green_circle::green_circle::green_circle::green_circle: | :green_circle::green_circle::green_circle::green_circle::green_circle::white_circle: | :green_circle::green_circle::green_circle::white_circle::white_circle::white_circle: |
+Управление IT-проектами ∙ Операционный менеджмент ∙ Бизнес-анализ ∙ POS-кредитование ∙ P2P/PDL-займы ∙ Blockchain   
 
 ## ОПЫТ РАБОТЫ  
 **3 года** >> управление IT-проектами в fintech (продуктовая разработка)    
@@ -34,7 +28,7 @@ _Руководитель IT-проекта/Project Manager, Москва_
 **9 лет** >> коммерческий банк (Казначейство)  
 
 ## НАВЫКИ  
-Agile ∙ Scrum ∙ Kanban ∙ SDLC ∙ Project Managment ∙ Team Managment ∙  Risk Managment ∙ BPMN ∙ Jira (в т.ч. `администрирование`)∙ Confluence  
+Agile ∙ Scrum ∙ Kanban ∙ SDLC ∙ Project Managment ∙ Team Managment ∙  Risk Managment ∙ BPMN ∙ Jira (_в т.ч. администрирование_)∙ Confluence  
 
 ## ОБРАЗОВАНИЕ
 [СибАГС](https://www.ranepa.ru/), кафедра "Финансы и Кредит", специальность "Банковское дело".
